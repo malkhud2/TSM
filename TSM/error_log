@@ -1,0 +1,100 @@
+[19-Dec-2018 11:28:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/malkhudc/public_html/TSM/server.php on line 428
+[19-Dec-2018 11:28:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/malkhudc/public_html/TSM/server.php:428) in /home/malkhudc/public_html/TSM/server.php on line 431
+[19-Dec-2018 11:38:36 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/malkhudc/public_html/TSM/server.php on line 124
+[19-Dec-2018 11:38:36 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/malkhudc/public_html/TSM/server.php on line 125
+[19-Dec-2018 11:38:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/malkhudc/public_html/TSM/server.php:124) in /home/malkhudc/public_html/TSM/server.php on line 165
+[19-Dec-2018 11:38:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/malkhudc/public_html/TSM/server.php:124) in /home/malkhudc/public_html/TSM/book_new_post.php on line 4
+[19-Dec-2018 11:39:50 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/malkhudc/public_html/TSM/server.php on line 124
+[19-Dec-2018 11:39:50 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/malkhudc/public_html/TSM/server.php on line 125
+[19-Dec-2018 11:39:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/malkhudc/public_html/TSM/server.php:124) in /home/malkhudc/public_html/TSM/server.php on line 165
+[19-Dec-2018 11:39:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/malkhudc/public_html/TSM/server.php:124) in /home/malkhudc/public_html/TSM/book_new_post.php on line 4
+[19-Dec-2018 11:41:28 UTC] PHP Warning:  explode() expects at most 3 parameters, 7 given in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:41:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/malkhudc/public_html/TSM/books.php on line 177
+[19-Dec-2018 11:41:28 UTC] PHP Warning:  explode() expects at most 3 parameters, 7 given in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:41:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/malkhudc/public_html/TSM/books.php on line 177
+[19-Dec-2018 11:41:28 UTC] PHP Warning:  explode() expects at most 3 parameters, 7 given in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:41:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/malkhudc/public_html/TSM/books.php on line 177
+[19-Dec-2018 11:41:28 UTC] PHP Warning:  explode() expects at most 3 parameters, 7 given in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:41:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/malkhudc/public_html/TSM/books.php on line 177
+[19-Dec-2018 11:41:41 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ')' in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:41:45 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ')' in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:42:00 UTC] PHP Warning:  explode() expects at most 3 parameters, 6 given in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:42:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/malkhudc/public_html/TSM/books.php on line 177
+[19-Dec-2018 11:42:00 UTC] PHP Warning:  explode() expects at most 3 parameters, 6 given in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:42:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/malkhudc/public_html/TSM/books.php on line 177
+[19-Dec-2018 11:42:00 UTC] PHP Warning:  explode() expects at most 3 parameters, 6 given in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:42:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/malkhudc/public_html/TSM/books.php on line 177
+[19-Dec-2018 11:42:00 UTC] PHP Warning:  explode() expects at most 3 parameters, 6 given in /home/malkhudc/public_html/TSM/books.php on line 176
+[19-Dec-2018 11:42:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/malkhudc/public_html/TSM/books.php on line 177
+[19-Dec-2018 11:43:29 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/malkhudc/public_html/TSM/server.php on line 266
+[19-Dec-2018 11:43:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/malkhudc/public_html/TSM/server.php:266) in /home/malkhudc/public_html/TSM/server.php on line 303
+[19-Dec-2018 11:43:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/malkhudc/public_html/TSM/server.php:266) in /home/malkhudc/public_html/TSM/club_new_post.php on line 4
+[19-Dec-2018 11:48:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/malkhudc/public_html/TSM/errors.php:2) in /home/malkhudc/public_html/TSM/tutor_new_post.php on line 4
+[19-Dec-2018 22:55:46 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/malkhudc/public_html/TSM/tutor.php on line 22
+[20-Dec-2018 01:19:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/malkhudc/public_html/TSM/server.php:396
+Stack trace:
+#0 /home/malkhudc/public_html/TSM/login.php(1): include()
+#1 {main}
+  thrown in /home/malkhudc/public_html/TSM/server.php on line 396
+[20-Dec-2018 01:19:47 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/malkhudc/public_html/TSM/server.php:396
+Stack trace:
+#0 /home/malkhudc/public_html/TSM/login.php(1): include()
+#1 {main}
+  thrown in /home/malkhudc/public_html/TSM/server.php on line 396
+[20-Dec-2018 01:20:01 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/malkhudc/public_html/TSM/server.php:396
+Stack trace:
+#0 /home/malkhudc/public_html/TSM/login.php(1): include()
+#1 {main}
+  thrown in /home/malkhudc/public_html/TSM/server.php on line 396
+[20-Dec-2018 01:25:36 UTC] PHP Warning:  mysqli_query() expects parameter 3 to be integer, string given in /home/malkhudc/public_html/TSM/server.php on line 393
+[20-Dec-2018 01:25:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/malkhudc/public_html/TSM/server.php on line 394
+[20-Dec-2018 01:26:04 UTC] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/malkhudc/public_html/TSM/server.php on line 393
+[20-Dec-2018 01:26:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/malkhudc/public_html/TSM/server.php on line 394
+[20-Dec-2018 01:27:00 UTC] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/malkhudc/public_html/TSM/server.php on line 393
+[20-Dec-2018 01:27:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/malkhudc/public_html/TSM/server.php on line 394
+[20-Dec-2018 01:27:17 UTC] PHP Warning:  mysqli_query() expects parameter 3 to be integer, string given in /home/malkhudc/public_html/TSM/server.php on line 393
+[20-Dec-2018 01:27:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/malkhudc/public_html/TSM/server.php on line 394
+[07-Jan-2019 00:46:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/malkhudc/public_html/TSM/errors.php:2) in /home/malkhudc/public_html/TSM/tutor_new_post.php on line 4
+[16-Jan-2019 15:21:44 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/malkhudc/public_html/TSM/tutor.php on line 22
+[23-Jan-2019 19:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printclubForm() in /home/malkhudc/public_html/TSM/event_new_post.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/malkhudc/public_html/TSM/event_new_post.php on line 14
+[23-Jan-2019 19:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printeventForm() in /home/malkhudc/public_html/TSM/event_new_post.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/malkhudc/public_html/TSM/event_new_post.php on line 14
+[23-Jan-2019 19:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printeventForm() in /home/malkhudc/public_html/TSM/event_new_post.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/malkhudc/public_html/TSM/event_new_post.php on line 14
+[30-Jan-2019 05:22:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/malkhudc/public_html/TSM/userprofile.php on line 112
+[30-Jan-2019 05:22:48 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/malkhudc/public_html/TSM/userprofile.php on line 146
+[30-Jan-2019 05:24:10 UTC] PHP Warning:  Missing argument 1 for printloginForm(), called in /home/malkhudc/public_html/TSM/userprofile.php on line 14 and defined in /home/malkhudc/public_html/TSM/userprofile.php on line 109
+[30-Jan-2019 05:24:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/malkhudc/public_html/TSM/userprofile.php on line 112
+[30-Jan-2019 05:24:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/malkhudc/public_html/TSM/userprofile.php on line 146
+[30-Jan-2019 05:25:12 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/malkhudc/public_html/TSM/userprofile.php on line 14
+[30-Jan-2019 17:45:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/malkhudc/public_html/TSM/userprofile.php on line 240
+[31-Jan-2019 17:33:43 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/malkhudc/public_html/TSM/tutor.php on line 28
+[31-Jan-2019 17:34:31 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/malkhudc/public_html/TSM/tutor.php on line 28
+[31-Jan-2019 17:36:29 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/malkhudc/public_html/TSM/tutor.php on line 28
+[31-Jan-2019 17:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/malkhudc/public_html/TSM/tutor.php:153
+Stack trace:
+#0 /home/malkhudc/public_html/TSM/tutor.php(30): returnTutorForm(NULL)
+#1 {main}
+  thrown in /home/malkhudc/public_html/TSM/tutor.php on line 153
+[31-Jan-2019 17:37:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/malkhudc/public_html/TSM/tutor.php:153
+Stack trace:
+#0 /home/malkhudc/public_html/TSM/tutor.php(30): returnTutorForm(NULL)
+#1 {main}
+  thrown in /home/malkhudc/public_html/TSM/tutor.php on line 153
+[31-Jan-2019 17:44:51 UTC] PHP Warning:  mysqli_query() expects parameter 3 to be integer, string given in /home/malkhudc/public_html/TSM/server.php on line 435
+[31-Jan-2019 17:44:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/malkhudc/public_html/TSM/server.php on line 436
+[31-Jan-2019 17:45:43 UTC] PHP Warning:  mysqli_query() expects parameter 3 to be integer, string given in /home/malkhudc/public_html/TSM/server.php on line 435
+[31-Jan-2019 17:45:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/malkhudc/public_html/TSM/server.php on line 436
+[31-Jan-2019 17:45:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/malkhudc/public_html/TSM/server.php:435) in /home/malkhudc/public_html/TSM/server.php on line 437
+[31-Jan-2019 17:45:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/malkhudc/public_html/TSM/server.php:435) in /home/malkhudc/public_html/TSM/server.php on line 442
+[31-Jan-2019 17:47:05 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/malkhudc/public_html/TSM/server.php on line 437
+[31-Jan-2019 19:26:54 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/malkhudc/public_html/TSM/tutor.php on line 27
+[31-Jan-2019 19:27:43 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/malkhudc/public_html/TSM/tutor.php on line 27
+[31-Jan-2019 19:28:24 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/malkhudc/public_html/TSM/tutor.php on line 27
